@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = alrobwilloliver@gmail.com
+	name = Alan Oliver
